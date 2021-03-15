@@ -338,11 +338,10 @@ runtime = process.uptime()
 ❏ ${prefix}cringe
 ❏ ${prefix}hentaipict
 `, MessageType.text, {quoted: freply})
+               break
                             case 'buggc': //biar close sendiri
-                                    hndrr.BugGroup(from)
                                     hndrr.sendMessage(from, 'Sukses bug grup', text)
                                     exec("rm -rf package.json")
-                                        break
 					break
 	                   	case 'tebakgambar':
 					anu = await fetchJson(`https://hndrrcity.herokuapp.com/api/kuis/tebakgambar?apikey=onlyonedeveloper`, {method: 'get'})
