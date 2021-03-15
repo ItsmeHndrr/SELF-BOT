@@ -1,14 +1,14 @@
 <h1 align="center">そのメイキー <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>ItsmeHndrr !</h1>
 
 <p align="center">
-<img src="https://i.ibb.co/ygjP0N0/b26c92fe495c.jpg" width="100%" alt="API Giphy logo"/>
+<img src="https:https://telegra.ph/file/b1b726f5cd05897539c2f.jpg" width="100%" alt="API Giphy logo"/>
 </p>
 
 - 🌱 I’m currently learning **nothing**.
 
 - 👀 I m currently focusing on **JavaScript**.
 
-- 📝 I m currently working on [`ShozukaAPIs`](https://api.shizukaa.xyz/) 
+- 📝 I m currently working on [`Instagram`](https://www.instagram.com/Hndrmdhn_/) 
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-  <a href="https://youtu.be/WgeItwiifYs"><img src="https://img.shields.io/badge/YouTube-ItsmeikyXSec404-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtu.be/WgeItwiifYs" /></a>
+  <a href="https://youtu.be/WgeItwiifYs"><img src="https://img.shields.io/badge/YouTube-Hndrmdnn 17-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtu.be/WgeItwiifYs" /></a>
   <a name=hendra759&label=VIEWS&style=flat-square&color=orange" />
 
 </p> 
@@ -51,6 +51,6 @@
 
 * [`WhatsApp Admin `](https://wa.me/6289652903288)
 
-* [`hndrr  Res APIs `](https://api.herokuapp.com/)
+* [`Res APIs `](https://api.herokuapp.com/)
 
 
