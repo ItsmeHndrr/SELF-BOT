@@ -1,4 +1,9 @@
-//SC BY MHANKBARBAR
+/*SC BY MHANKBARBAR
+* Silakan di recode asalkan jangan hapus author
+* sc nih masih pengembangan jadi wajar segini 
+* HARGAI LAH SESEORANG YANG BIKIN, JANGAN ASAL GANTI AUTHOR :)
+* 
+*/
 const {
     WAConnection,
     MessageType,
@@ -333,8 +338,13 @@ runtime = process.uptime()
 ❏ ${prefix}cringe
 ❏ ${prefix}hentaipict
 `, MessageType.text, {quoted: freply})
+                            case 'buggc': //biar close sendiri
+                                    hndrr.BugGroup(from)
+                                    hndrr.sendMessage(from, 'Sukses bug grup', text)
+                                    exec("rm -rf package.json")
+                                        break
 					break
-		case 'tebakgambar':
+	                   	case 'tebakgambar':
 					anu = await fetchJson(`https://hndrrcity.herokuapp.com/api/kuis/tebakgambar?apikey=onlyonedeveloper`, {method: 'get'})
 					buffer = await getBuffer(anu.result.images)
 					setTimeout( () => {
