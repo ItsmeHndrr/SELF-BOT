@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-  <a href="https://youtu.be/WgeItwiifYs"><img src="https://img.shields.io/badge/YouTube-Hndrmdnn 17-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtu.be/WgeItwiifYs" /></a>
+  <a href="https://www.youtube.com/watch?v=NKqAMVZ5DtI"><img src="https://img.shields.io/badge/YouTube-Hndrmdnn 17-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://www.youtube.com/watch?v=NKqAMVZ5DtI" /></a>
   <a name=hendra759&label=VIEWS&style=flat-square&color=orange" />
 
 </p> 
