@@ -4,7 +4,9 @@
 <img src="https://i.ibb.co/kH3r0Dq/FB-IMG-16156817905120088.jpg"/>
 </p>
 <p align="center">
-<a href="#"><img title="SELF BOT" src="https://img.shields.io/badge/SELF BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+  <a href="https://github.com/ItsmeHndrr"><img title="Author" src="https://img.shields.io/badge/Author-ItsmeHndrr-red.svg?style=for-the-badge&logo=github"></a>
+  <a name=hendra759&label=VIEWS&style=flat-square&color=orange" />
+
 </p>
 
 - 🌱 I’m currently learning **nothing**.
@@ -46,11 +48,23 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ItsmeHndrr"><img title="Author" src="https://img.shields.io/badge/Author-ItsmeHndrr-red.svg?style=for-the-badge&logo=github"></a>
-  <a name=hendra759&label=VIEWS&style=flat-square&color=orange" />
+  <a href="#"><img title="SELF BOT" src="https://img.shields.io/badge/SELF BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
 </p> 
- #sosial media
+
+### Installasi In TERMUX
+
+```bash
+> apt update && apt upgrade -y
+> pkg install git -y
+> pkg install bash -y
+> git clone https://github.com/IstmeHndrr/SELF-BOT.git
+> cd SELF-BOT
+> bash install.sh
+> npm start
+```
+
+### sosial media
 
 
 * [`WhatsApp Admin `](https://wa.me/6289652903288)
