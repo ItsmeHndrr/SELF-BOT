@@ -1,7 +1,10 @@
 <h1 align="center">そのメイキー <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>ItsmeHndrr !</h1>
 
 <p align="center">
-<img src="https://i.ibb.co/kH3r0Dq/FB-IMG-16156817905120088.jpg"/>SELF BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<img src="https://i.ibb.co/kH3r0Dq/FB-IMG-16156817905120088.jpg"/>
+</p>
+<p align="center">
+<a href="#"><img title="SELF BOT" src="https://img.shields.io/badge/SELF BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
 - 🌱 I’m currently learning **nothing**.
@@ -9,17 +12,7 @@
 - 👀 I m currently focusing on **JavaScript**.
 
 - 📝 I m currently working on [`Instagram`](https://www.instagram.com/Hndrmdhn_/) 
-### Installasi In TERMUX
 
-```bash
-> apt update && apt upgrade -y
-> pkg install git -y
-> pkg install bash -y
-> git clone https://github.com/IstmeHndrr/SELF-BOT.git
-> cd SELF-BOT
-> bash install.sh
-> npm start
-```
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
